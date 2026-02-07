@@ -1,0 +1,7 @@
+com\example\webshop\service\CategoryService.class
+com\example\webshop\Bai4Application.class
+com\example\webshop\controller\ProductController.class
+com\example\webshop\controller\HomeController.class
+com\example\webshop\model\Category.class
+com\example\webshop\model\Product.class
+com\example\webshop\service\ProductService.class
